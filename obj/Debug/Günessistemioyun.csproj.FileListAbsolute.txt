@@ -1,0 +1,62 @@
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\Günessistemioyun.exe.config
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\Günessistemioyun.exe
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\Günessistemioyun.pdb
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.csproj.AssemblyReference.cache
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form1.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.csproj.GenerateResource.cache
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.csproj.CoreCompileInputs.cache
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.exe
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.pdb
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form2.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.animasyongiris.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\Guna.UI2.dll
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form3.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form4.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form5.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form6.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\NAudio.Asio.dll
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\NAudio.Core.dll
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\NAudio.dll
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\NAudio.Midi.dll
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\NAudio.Wasapi.dll
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\NAudio.WinForms.dll
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\NAudio.WinMM.dll
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\System.Security.AccessControl.dll
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\NAudio.xml
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\NAudio.Asio.xml
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\NAudio.Core.xml
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\NAudio.Midi.xml
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\NAudio.Wasapi.xml
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\NAudio.WinForms.xml
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\NAudio.WinMM.xml
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\System.Security.AccessControl.xml
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Properties.Resources.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\Resources\muzik1.mp3
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\G_nessis.BA2E5980.Up2Date
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form7.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form8.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form9.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form10.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form11.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.ProfilSayfası.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form12.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form13.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form14.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form15.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form16.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form17.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form18.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.Form19.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\obj\Debug\Günessistemioyun.dileksikayet.resources
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\Resources\Satürn Saturn Yüzeyi.mp3
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\Resources\Mars Kızıl Gezegen o.mp3
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\Resources\Jüpiter Jupiter Güne.mp3
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\Resources\Dünya Earth Hayat ba.mp3
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\Resources\Merkür Mercury Güneş.mp3
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\Resources\Neptün Neptune Uranü.mp3
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\Resources\Uranüs Uranus Uranüs.mp3
+C:\Users\salih ömer\source\repos\Günessistemioyun\bin\Debug\Resources\Venüs Venus Yeryüzün.mp3
